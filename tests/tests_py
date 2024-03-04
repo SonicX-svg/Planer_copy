@@ -1,0 +1,4 @@
+# scr_test.py
+from scr1 import add
+def test_success():
+    assert add(2, 2) == 4
