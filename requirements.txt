@@ -30,8 +30,8 @@ six==1.16.0
 sympy==1.12
 tkcalendar==1.6.1
 tokenizers==0.15.0
-torchaudio==2.1.2+cu118
-torchvision==0.16.2+cu118
+# torchaudio==2.1.2+cu118
+# torchvision==0.16.2+cu118
 tqdm==4.66.1
 transformers==4.36.2
 triton==2.1.0
